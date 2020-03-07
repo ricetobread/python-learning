@@ -1,4 +1,5 @@
 from random import randint
+#RANDINT=random integer
 
 #list of possibility
 game=["Rock","Paper","Scissor"]
